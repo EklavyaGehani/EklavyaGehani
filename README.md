@@ -31,7 +31,7 @@ I'm Eklavya, a BCA student who enjoys turning ideas into working web application
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,mysql,react,bootstrap,reactnative,expo,nodejs,express,postman,mongodb,git,github,vscode&perline=9" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,c,cpp,mysql,react,bootstrap,reactnative,expo,nodejs,express,postman,mongodb,git,github,vscode&perline=9" />
 </p>
 
 ---
