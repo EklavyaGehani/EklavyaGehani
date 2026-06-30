@@ -30,41 +30,9 @@ I'm Eklavya, a BCA student who enjoys turning ideas into working web application
 
 ## 🛠 Tech Stack
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-**Languages**
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,mysql" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,mysql,react,bootstrap,reactnative,expo,nodejs,express,postman,mongodb,git,github,vscode&perline=9" />
 </p>
-
-**Frontend**
-<p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,reactnative,expo" />
-</p>
-
-</td>
-<td valign="top" width="50%">
-
-**Backend**
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postman" />
-</p>
-
-**Database**
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-**Tools**
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-</td>
-</tr>
-</table>
 
 ---
 
