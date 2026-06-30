@@ -36,15 +36,12 @@ I'm Eklavya, a BCA student who enjoys turning ideas into working web application
 
 **Languages**
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="48"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,mysql" />
 </p>
 
 **Frontend**
 <p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="48"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="48"/>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,reactnative,expo" />
 </p>
 
 </td>
@@ -52,8 +49,7 @@ I'm Eklavya, a BCA student who enjoys turning ideas into working web application
 
 **Backend**
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" height="48"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postman" />
 </p>
 
 **Database**
